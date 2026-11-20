@@ -1,0 +1,1038 @@
+0	Key	English	Türkçe
+1	Campaign	Campaign	Sefer
+2	Multiplayer	Multiplayer	Çok Oyunculu
+3	Profiles	Profiles	Profiller
+4	DemoLoop	Demo Loop	Demo Döngüsü
+5	Login	Login	Giriş
+6	EnterNamePassword	Enter your ubi.com username and password...	ubi.com kullanıcı adınızı ve şifrenizi girin...
+7	LoginName	Name:	İsim:
+8	LoginPassword	Password:	Şifre:
+9	RefreshingServerList	Refreshing Server List...	Sunucu Listesi Yenileniyor...
+10	Create	Create	Oluştur
+11	Options	Options	Seçenekler
+12	Credits	Credits	Yapımcılar
+13	Quit	Quit	Çık
+14	Apply	Apply	Uygula
+15	LoadGame	Load Game	Oyunu Yükle
+16	SaveGame	Save Game	Oyunu Kaydet
+17	NewGame	New Game	Yeni Oyun
+18	JoinGame	Join Game	Oyuna Katıl
+19	CreateServer	Create Server	Sunucu Oluştur
+20	FriendlyFire	Friendly Fire	Dost Ateşi
+21	DedicatedServer	Dedicated Server	Adanmış Sunucu
+22	LoadServerProfile	Load Profile	Profili Yükle
+23	SaveServerProfile	Save Profile	Profili Kaydet
+24	Launch	Launch	Başlat
+25	RespawnCycle	Respawn Cycle	Yeniden Doğma Döngüsü
+26	WarmupTime	Warmup Time	Isınma Süresi
+27	PlayerName	Player Name	Oyuncu Adı
+28	ReturnToGame	Return to Game	Oyuna Dön
+29	MainMenu	Main Menu	Ana Menü
+30	Ok	Ok	Tamam
+31	Cancel	Cancel	İptal
+32	ASSAULT	Assault	Taarruz
+33	TDM	Team Deathmatch	Takımlı Ölüm Maçı
+34	CTF	Capture the Flag	Bayrağı Yakala
+35	FFA	Free for All	Herkes Tek
+36	CAH	Capture and Hold	Yakala ve Tut
+37	GameOptions	Game Options	Oyun Seçenekleri
+38	ControlOptions	Control Options	Kontrol Seçenekleri
+39	VideoOptions	Video Options	Görüntü Seçenekleri
+40	SoundOptions	Sound Options	Ses Seçenekleri
+41	MouseSensitivity	Mouse Sensitivity	Fare Hassasiyeti
+42	Fullscreen	Full Screen	Tam Ekran
+43	EnableGore	Enable Gore	Kan Efektini Aç
+44	PhysicsQuality	Physics Quality	Fizik Kalitesi
+45	Resolution	Screen resolution	Ekran çözünürlüğü
+46	AutoDetect	Auto Detect	Otomatik Algıla
+47	None	None	Yok
+48	Low	Low	Düşük
+49	High	High	Yüksek
+50	VeryHigh	Very High	Çok Yüksek
+51	TextureQuality	Texture Quality	Doku Kalitesi
+52	TextureFilterQuality	Texture Filter Quality	Doku Filtreleme Kalitesi
+53	ParticleCount	Particle Count	Parçacık Sayısı
+54	SpecialEffectsQuality	Special Effects Quality	Özel Efekt Kalitesi
+55	EnvironmentQuality	Environment Quality	Çevre Kalitesi
+56	ShadowQuality	Shadow Quality	Gölge Kalitesi
+57	WaterQuality	Water Quality	Su Kalitesi
+58	LightingQuality	Lighting Quality	Işıklandırma Kalitesi
+59	VSync	Vertical Sync	Dikey Senkronizasyon
+60	GammaCorrection	Gamma Correction	Gama Düzeltme
+61	Contrast	Contrast	Kontrast
+62	Brightness	Brightness	Parlaklık
+63	FSAA	Anti Aliasing	Kenar Yumuşatma
+64	InvertMouse	Invert Mouse	Fareyi Ters Çevir
+65	NoBindWarning	$4Warning: Some actions are not assigned to any key.	$4Uyarı: Bazı eylemler hiçbir tuşa atanmamış.
+66	ChangeCtrlBind	Change Control	Kontrolü Değiştir
+67	CtrlActionName	Action	Eylem
+68	CtrlActionBinding1	Binding One	Birinci Atama
+69	CtrlActionBinding2	Binding Two	İkinci Atama
+70	PressAKeyToBind	Press a key to	Atamak için bir tuşa basın
+71	SoundVolume	SoundFX Volume	Efekt Sesi Düzeyi
+72	MusicVolume	Music Volume	Müzik Düzeyi
+73	Doppler	Doppler Effect	Doppler Etkisi
+74	SpeakerConfig	Speaker Setup	Hoparlör Kurulumu
+75	Mono	Monaural	Mono
+76	Stereo	Stereo	Stereo
+77	Headphones	Headphones	Kulaklık
+78	Quadrophonic	Quadrophonic	Kuadrafonik
+79	Surround	Surround	Çevresel Ses
+80	5_1	Surround 5.1	Çevresel Ses 5.1
+81	PlayerModel	Player Model	Oyuncu Modeli
+82	LeftHanded	Left Handed	Sol El
+83	Resolution	Resolution	Çözünürlük
+84	Driver	Driver	Sürücü
+85	EnableVSync	Enable VSync	Dikey Senkronizasyonu Aç
+86	EnableWater	Enable Water	Suyu Aç
+87	Sun	Enable Sunflares	Güneş Parlamalarını Aç
+88	Shadow	Enable Shadow	Gölgeyi Aç
+89	TexComp	Compressed Textures	Sıkıştırılmış Dokular
+90	MaxTexSize	Max Tex Size	Maks. Doku Boyutu
+91	LoadLastCheckpoint	Load Last Checkpoint	Son Kontrol Noktasını Yükle
+92	JoinPlayersTeam	Join the Players	Oyunculara Katıl
+93	JoinSpectatorsTeam	Join the Spectators	İzleyicilere Katıl
+94	Ready	Ready	Hazır
+95	DoSuicide	Self Kill	İntihar Et
+96	JoinRedTeam	Join the Red Team	Kırmızı Takıma Katıl
+97	JoinBlueTeam	Join the Blue Team	Mavi Takıma Katıl
+98	Accuracy	Accuracy	İsabet
+99	Aggression	Aggression	Saldırganlık
+100	Health	Health	Sağlık
+101	ProfileSelect	Select Profile	Profil Seç
+102	ProfileNew	New Profile	Yeni Profil
+103	CurrentProfile	Current Profile:	Geçerli Profil:
+104	CreateProfile	Create New Profile	Yeni Profil Oluştur
+105	ProfileName	Profile Name:	Profil Adı:
+106	RemoveProfile	Remove Profile	Profili Kaldır
+107	RemoveProfileConfirmation	Are you sure ?	Emin misiniz?
+108	Start	Start	Başla
+109	Join	Join	Katıl
+110	Refresh	Refresh	Yenile
+111	Back	Back	Geri
+112	ServerName	Server Name	Sunucu Adı
+113	ServerPassword	Server Password	Sunucu Şifresi
+114	Password	Password	Şifre
+115	Disconnect	Disconnect	Bağlantıyı Kes
+116	RemainingTime	REMAINING GAME TIME	KALAN OYUN SÜRESİ
+117	ReinforcementTime	TIME UNTIL REINFORCEMENTS	TAKVİYEYE KALAN SÜRE
+118	Advanced	Advanced	Gelişmiş
+119	RespawnTime	Respawn Time (Sec)	Yeniden Doğma Süresi (Sn)
+120	PrewarTime	Prewar Time	Savaş Öncesi Süre
+121	Cycle	Cycle	Döngü
+122	From	From	Başlangıç
+123	To	To	Bitiş
+124	GetServers	Get Servers	Sunucuları Listele
+125	Connect	Connect	Bağlan
+126	EnterPassword	Enter Password	Şifre Gir
+127	EnterName	Enter Name	İsim Gir
+128	CreateRoom	Create Room	Oda Oluştur
+129	StartGame	Start Game	Oyunu Başlat
+130	Friends	Friends	Arkadaşlar
+131	Members	Members	Üyeler
+132	CurrentLobby	Current Lobby	Geçerli Lobi
+133	Lobbies	Lobbies	Lobiler
+134	CurrentRoom	Current Room	Geçerli Oda
+135	Rooms	Rooms	Odalar
+136	EnterRoomName	Room Name	Oda Adı
+137	Public	Public	Herkese Açık
+138	Private	Private	Özel
+139	Message	Message	Mesaj
+140	PleaseWait	Please Wait	Lütfen Bekleyin
+141	RoomCancelledByHost	Room Cancelled By Host	Oda Sahibi Tarafından İptal Edildi
+142	EnterPassword	Enter password	Şifre gir
+143	JoinRoom	Join Room	Odaya Katıl
+144	AddFriend	Add Friend	Arkadaş Ekle
+145	RemoveFriend	Remove Friend	Arkadaşı Kaldır
+146	PageFriend	Page Friend	Arkadaşı Çağır
+147	Unknown	Unknown	Bilinmiyor
+148	Alias	Alias	Takma Ad
+149	NickName	Nickname	Rumuz
+150	Country	Country	Ülke
+151	Email	Email	E-posta
+152	GameName	Game Name	Oyun Adı
+153	Name	Name	Ad
+154	Date	Date	Tarih
+155	Load	Load	Yükle
+156	SuicideAndApply	Suicide and Apply	İntihar Et ve Uygula
+157	TeamRed	RED TEAM	KIRMIZI TAKIM
+158	TeamBlue	BLUE TEAM	MAVİ TAKIM
+159	TeamSpec	SPECTATOR	İZLEYİCİ
+160	Difficulty	Difficulty	Zorluk
+161	DifficultyEasy	Easy	Kolay
+162	DifficultyMedium	Medium	Orta
+163	DifficultyHard	Hard	Zor
+164	Select_StartMap	Select Start Map	Başlangıç Haritasını Seç
+165	Load_SaveGame	Load Check Point	Kontrol Noktasını Yükle
+166	Save	Save	Kaydet
+167	LoadSettings	Load Settings	Ayarları Yükle
+168	SaveSettings	Save Settings	Ayarları Kaydet
+169	SelectMap	Select Map	Harita Seç
+170	Players	Players	Oyuncular
+171	Default	Default	Varsayılan
+172	QuitConfirmation	Really Quit ?	Gerçekten Çıkılsın mı?
+173	Yes	Yes	Evet
+174	No	No	Hayır
+175	LAN	LAN	LAN
+176	Internet	Internet	İnternet
+177	Level	Level	Bölüm
+178	Checkpoint	Checkpoint	Kontrol Noktası
+179	LoggingIn	Logging in to Ubi.com...	Ubi.com'a giriş yapılıyor...
+180	TimeLimit	Time Limit (Min)	Süre Sınırı (Dk)
+181	DisconnectedFromServer	Disconnected from server...	Sunucuyla bağlantı kesildi...
+182	UserDisconnected	User disconnected...	Kullanıcının bağlantısı kesildi...
+183	ClientHasQuit	Client has quit the game...	İstemci oyundan ayrıldı...
+184	ServerFull	Server is full...	Sunucu dolu...
+185	Kicked	Kicked!	Atıldın!
+186	ServerShutdown	Server shutdown...	Sunucu kapatıldı...
+187	InvalidServerPassword	Invalid server password...	Geçersiz sunucu parolası...
+188	ConnectionRejected	Connection rejected...	Bağlantı reddedildi...
+189	IP	IP	IP
+190	Mod	Mod	Mod
+191	Map	Map	Harita
+192	Ping	Ping	Ping
+193	StartNewGame	Start New Game	Yeni Oyuna Başla
+194	ServerTypeUBI	UBI.com	UBI.com
+195	AskServerProfileName	Profile name	Profil adı
+196	SProfileOverwrite	This profile already exists! Overwrite ?	Bu profil zaten var! Üzerine yazılsın mı?
+197	ServerTimeout	Server timedout...	Sunucu zaman aşımına uğradı...
+198	ClientTimeout	Client timedout...	İstemci zaman aşımına uğradı...
+199	HardwareMixing	Hardware Mixing (needs restart)	Donanımsal Karıştırma (yeniden başlatma gerekir)
+200	EnableEAX	Enable EAX 2.0 (needs hw mixing)	EAX 2.0'ı Etkinleştir (donanım karıştırması gerekir)
+201	EnableMusic	Enable Music	Müziği Etkinleştir
+202	AskServerPassword	Server is protected...	Sunucu korumalı...
+203	AskServerPasswordMsg	This server is password protected...\nPlease type in the password:	Bu sunucu parola korumalı...\nLütfen parolayı yazın:
+204	TerminateCurrentGameLabel	This will terminate your current game. Are you sure you want this ?	Bu, mevcut oyununuzu sonlandıracak. Emin misiniz?
+205	TerminateCurrentGame	Terminate current game...	Mevcut oyunu sonlandır...
+206	ToAll	To All	Herkese
+207	ToTeam	To Team	Takıma
+208	UbiBannedAccount	This account is banned!	Bu hesap yasaklandı!
+209	UbiBlockedAccount	This account is blocked!	Bu hesap engellendi!
+210	UbiLockedAccount	This account is locked!	Bu hesap kilitlendi!
+211	UbiNotDisconnected	Already logged in to this account...	Bu hesaba zaten giriş yapılmış...
+212	UbiNoMorePlayers	No more players allowed in this server...	Bu sunucuda daha fazla oyuncuya izin verilmiyor...
+213	UbiGroupNotExist	This group does not exist...	Bu grup mevcut değil...
+214	UbiDatabaseFailed	Failed to connect to Ubi.com database...	Ubi.com veritabanına bağlanılamadı...
+215	UbiConnectionFailed	Failed to connect to Ubi.com service...	Ubi.com hizmetine bağlanılamadı...
+216	UbiUnknownError	Unknown error trying to login to Ubi.com...	Ubi.com'a giriş yapılırken bilinmeyen hata...
+217	UbiInvalidAccount	Invalid Ubi.com account name...	Geçersiz Ubi.com hesap adı...
+218	UbiInvalidPassword	Invalid password for this account...	Bu hesap için geçersiz parola...
+219	LoginFailed	Login Failed...	Giriş Başarısız...
+220	WaitingForServerTitle	Waiting for Server...	Sunucu Bekleniyor...
+221	WaitingForServerLabel	The server is not responding. Press disconnect to terminate the connection now!	Sunucu yanıt vermiyor. Bağlantıyı şimdi kesmek için bağlantıyı kes düğmesine basın!
+222	LoadingError	Loading Error...	Yükleme Hatası...
+223	GameVersionError	Game versions do not match!	Oyun sürümleri uyuşmuyor!
+224	LoadLevelError	Error loading level data!	Seviye verisi yüklenirken hata!
+225	LevelVersionError	Level versions do not match!	Seviye sürümleri uyuşmuyor!
+226	MoveLeft	Move Left	Sola Hareket
+227	MoveRight	Move Right	Sağa Hareket
+228	MoveForward	Move Forward	İleri Hareket
+229	MoveBackward	Move Backward	Geri Hareket
+230	Walk	Walk	Yürü
+231	SprintRun	Sprint/Switch Position	Hızlı Koş/Duruş Değiştir
+232	Chat	Chat	Sohbet
+233	TeamChat	Team Chat	Takım Sohbeti
+234	Jump	Jump	Zıpla
+235	Crouch	Crouch	Eğil
+236	Prone	Prone	Yere Yat
+237	LeanLeft	Lean Left	Sola Eğil
+238	LeanRight	Lean Right	Sağa Eğil
+239	ViewScoreboard	Objectives/Scoreboard	Hedefler/Skor Tablosu
+240	Fire	Fire	Ateş Et
+241	CancelCurrentTarget	Cancel Current Target	Mevcut Hedefi İptal Et
+242	Use	Use	Kullan
+243	TurnLeftRight	Turn Left/Right	Sola/Sağa Dön
+244	TurnUpDown	Turn Up/Down	Yukarı/Aşağı Dön
+245	NextWeapon	Next Weapon	Sonraki Silah
+246	PrevWeapon	Previous Weapon	Önceki Silah
+247	Reload	Reload	Yeniden Doldur
+248	Slot0	Weapon Slot 0	Silah Yuvası 0
+249	Slot1	Weapon Slot 1	Silah Yuvası 1
+250	Slot2	Weapon Slot 2	Silah Yuvası 2
+251	Slot3	Weapon Slot 3	Silah Yuvası 3
+252	Slot4	Weapon Slot 4	Silah Yuvası 4
+253	Slot5	Weapon Slot 5	Silah Yuvası 5
+254	Slot6	Weapon Slot 6	Silah Yuvası 6
+255	Slot7	Weapon Slot 7	Silah Yuvası 7
+256	Slot8	Weapon Slot 8	Silah Yuvası 8
+257	Slot9	Weapon Slot 9	Silah Yuvası 9
+258	DropWeapon	Drop Weapon	Silahı Bırak
+259	CycleGrenade	Cycle Grenades	El Bombalarını Değiştir
+260	Binoculars	Binoculars	Dürbün
+261	ThermalVision	CryVision	CryVision
+262	Item2	Select Item 2	Öğe 2'yi Seç
+263	Item3	Select Item 3	Öğe 3'ü Seç
+264	Item4	Select Item 4	Öğe 4'ü Seç
+265	Item5	Select Item 5	Öğe 5'i Seç
+266	Item6	Select Item 6	Öğe 6'yı Seç
+267	Item7	Select Item 7	Öğe 7'yi Seç
+268	Item8	Select Item 8	Öğe 8'i Seç
+269	ToggleZoom	Zoom	Yakınlaştırma
+270	ZoomIn	Zoom In	Yakınlaştır
+271	ZoomOut	Zoom Out	Uzaklaştır
+272	HoldBreath	Hold Breath	Nefesi Tut
+273	ToggleFiremode	Toggle Firemode	Atış Modunu Değiştir
+274	Quicksave	Quicksave	Hızlı Kaydet
+275	Quickload	Quickload	Hızlı Yükle
+276	ThrowGrenade	Throw Grenade	El Bombası At
+277	Concentration	Concentration	Konsantrasyon
+278	ToggleFlashlight	Flashlight	El Feneri
+279	SwitchView	Switch View	Görünümü Değiştir
+280	TakeScreenshot	Take Screenshot	Ekran Görüntüsü Al
+281	DisconnectTitle	Disconnect...	Bağlantıyı Kes...
+282	DisconnectYesNo	Are you sure you want to disconnect ?	Bağlantıyı kesmek istediğinize emin misiniz?
+283	ChooseTeam	Choose Team	Takım Seç
+284	ChooseClass	Choose Class	Sınıf Seç
+285	ChooseWeapons	Choose Weapons	Silahları Seç
+286	NewerSrvVersion	[Newer Version]	[Daha Yeni Sürüm]
+287	OlderSrvVersion	[Old Version]	[Eski Sürüm]
+288	UnknownServer	[Unknown]	[Bilinmiyor]
+289	RestoreDefaults	Defaults	Varsayılanlar
+290	Error	Error	Hata
+291	CreateServerSelectMap	You must select a map first.	Önce bir harita seçmelisiniz.
+292	CreateServerFieldEmpty	You must set all options before starting the server.	Sunucuyu başlatmadan önce tüm seçenekleri ayarlamalısınız.
+293	MusicQuality	Music Quality	Müzik Kalitesi
+294	MusicQualitySetT	Auto detection set the music quality to	Otomatik algılama müzik kalitesini şuna ayarladı
+295	AskAdjOptions	It is the first time you are running Far Cry.\nDo you want to adjust your settings now ?	Far Cry'ı ilk kez çalıştırıyorsunuz.\nAyarlarınızı şimdi düzenlemek istiyor musunuz?
+296	RenderMode	Render Mode	İşleme Modu
+297	Normal	Normal	Normal
+298	Paradise	Paradise	Cennet
+299	Cold	Cold	Soğuk
+300	Cartoon	Cartoon	Çizgi Film
+301	Renderer	Renderer	İşleyici
+302	Direct3D9	Direct3D9	Direct3D9
+303	OpenGL	OpenGL	OpenGL
+304	LazyWeapon	LazyWeapon	LazyWeapon
+305	ConnectionSettings	Connection Settings	Bağlantı Ayarları
+306	MaxTeamPlayers	Max Players per Team	Takım Başına En Fazla Oyuncu
+307	MinTeamPlayers	Min Players per Team	Takım Başına En Az Oyuncu
+308	MaxServerPlayers	Max Players Total	Toplam En Fazla Oyuncu
+309	AskServerPasswordMsgWrong	Invalid server password...\nPlease type in the correct password:	Geçersiz sunucu parolası...\nLütfen doğru parolayı yazın:
+310	VerifyingCDKey	Verifying CDKey...	CD Anahtarı doğrulanıyor...
+311	AskCDKeyTitle	CDKey	CD Anahtarı
+312	AskCDKey	Please enter your CDKey:	Lütfen CD Anahtarınızı girin:
+313	AskCDKeyReenter	\nPlease re-enter your CDKey:	\nLütfen CD Anahtarınızı yeniden girin:
+314	UbiCDKeyInternalError	Internal CDKey error!	Dahili CD Anahtarı hatası!
+315	UbiCDKeyNotChallenged	CDKey not challenged!	CD Anahtarı doğrulanamadı!
+316	UbiCDKeyOnline	CDKey already in use!	CD Anahtarı zaten kullanımda!
+317	UbiCDKeyTimeout	CDKey verification timeout!	CD Anahtarı doğrulama zaman aşımı!
+318	UbiInvalidCDKey	Invalid CD-Key!	Geçersiz CD Anahtarı!
+319	ConnectingTo	Connecting to 	Bağlanılıyor 
+320	ConnectingToServer	Connecting to Server...	Sunucuya bağlanılıyor...
+321	ConnectionTimeout	Connection timeout...	Bağlantı zaman aşımı...
+322	AdvChangeMess1	Advanced Video options changed	Gelişmiş Görüntü seçenekleri değişti
+323	MenuVideo	Play background video	Arka plan videosunu oynat
+324	Custom	Custom	Özel
+325	CreateAccount	Create Account	Hesap Oluştur
+326	UBILogout	Logout Ubi.com	Ubi.com'dan Çıkış Yap
+327	DisconnectingFromService	Successfully logged out from UBI.com	UBI.com'dan başarıyla çıkış yapıldı
+328	CanNotRemoveDefaultProfile	You can not remove default profile	Varsayılan profili silemezsiniz
+329	CreateServerTypeName	Please type a name for your server!	Lütfen sunucunuz için bir ad yazın!
+330	CreateServerMaxPlayers	Max Players Total must be less or equal than 32!	Toplam En Fazla Oyuncu 32'ye eşit veya daha az olmalı!
+331	CreateLANServer	Create LAN Server	Yerel Ağ (LAN) Sunucusu Oluştur
+332	CreateUBIServer	Create Internet Server	İnternet Sunucusu Oluştur
+333	RenderModeNotSupported	Not Supported!	Desteklenmiyor!
+334	AdvancedVidOptions	Advanced Options	Gelişmiş Seçenekler
+335	BasicVIdOptions	Basic Options	Temel Seçenekler
+336	SavingGame	Saving Game	Oyun Kaydediliyor
+337	AdvChangeMess2	YOU MUST RESTART THE GAME TO MAKE THE CHANGES EFFECTIVE	DEĞİŞİKLİKLERİN GEÇERLİ OLMASI İÇİN OYUNU YENİDEN BAŞLATMALISINIZ
+338	AIAutoBalance	AI Auto Balance	Yapay Zeka Otomatik Dengeleme
+339	Controls	Controls	Kontroller
+340	LaunchDemo	Launch Demo	Demoyu Başlat
+341	MessageNotification	Message Notification	Mesaj Bildirimi
+342	MultiplayerName	Multiplayer Name	Çok Oyuncu Adı
+343	MultiplayerModel	Multiplayer Model	Çok Oyuncu Modeli
+344	Bilinear	Bilinear	Bilinear
+345	Trilinear	Trilinear	Trilinear
+346	AnisotropicFilteringLevel	Anisotropic Filtering Level	Anizotropik Filtreleme Düzeyi
+347	UltraHigh	Ultra High	Ultra Yüksek
+348	DeathTime	Corpse Stay (Secs)	Ceset Kalma Süresi (Sn)
+349	Challenging	Challenging	Zorlayıcı
+350	Veteran	Veteran	Kıdemli
+351	Realistic	Realistic	Gerçekçi
+352	SoundCompatibleMode	Compatible mode (needs restart) \n Enable in case of playback issues	Uyumluluk modu (yeniden başlatma gerekir) \n Oynatma sorunları yaşarsanız etkinleştirin
+353	CONTROLS_MOVEMENT	$$8MOVEMENT$	$$8HAREKET$
+354	CONTROLS_MULTIPLAYER	$$8MULTIPLAYER$	$$8ÇOK OYUNCULU$
+355	CONTROLS_GAME	$$8GAME$	$$8OYUN$
+356	CONTROLS_COMBAT	$$8COMBAT$	$$8ÇATIŞMA$
+357	RemoveSavedGame	Remove Checkpoint	Kontrol Noktasını Kaldır
+358	Mods	Mods	Modlar
+359	LoadMOD	Load MOD	MOD Yükle
+360	Title	Title	Başlık
+361	Version	Version	Sürüm
+362	Author	Author	Yazar
+363	WebSite	WebSite	Web Sitesi
+364	MPModelJack	Jack	Jack
+365	MPModelScout	Scout	İzci
+366	MPModelRear	Rear	Artçı
+367	MPModelCover	Cover	Koruma
+368	MPModelEvilWorker	Evil Worker	Kötü İşçi
+369	MPModelCrowe	Crowe	Crowe
+370	CheckpointLast	Last	Son
+371	MultiplayerColor	Multiplayer Color	Çok Oyunculu Rengi
+372	Modalreadyselected	The MOD you are trying to load is already set as the current one. \n Please select another MOD.	Yüklemeye çalıştığınız MOD zaten mevcut olarak ayarlı. \n Lütfen başka bir MOD seçin.
+373	SavePassword	Save password	Parolayı kaydet
+374	ModChange1	MOD option changed	MOD seçeneği değişti
+375	ModChange2	Loading this MOD may require the game to relaunch. Do you want to do this?	Bu MOD'un yüklenmesi oyunun yeniden başlatılmasını gerektirebilir. Bunu yapmak istiyor musunuz?
+376	CurrentMOD	Current MOD	Mevcut MOD
+377	SysSpec	Machine Spec	Makine Özellikleri
+378	GameType	Game Type	Oyun Türü
+379	CDKeyFailed	CDKey Verification Failed!	CD Anahtarı Doğrulaması Başarısız!
+380	GameXPWarning	ESRB notice: Game Experience May Change During Online Play!	ESRB bildirimi: Çevrimiçi Oyun Sırasında Oyun Deneyimi Değişebilir!
+381	XPWarningTitle	Warning...	Uyarı...
+382	Banned	Banned!	Yasaklandınız!
+383	MouseSmoothing	Mouse Smoothing	Fare Yumuşatma
+384	Fast	Fast	Hızlı
+385	MouseAcceleration	Mouse Acceleration	Fare Hızlandırma
+386	UbiTypeUsername	Please type in your Ubi.com username!	Lütfen Ubi.com kullanıcı adınızı yazın!
+387	UbiTypePassword	Please type in your Ubi.com password!	Lütfen Ubi.com parolanızı yazın!
+388	difficultytexteasy	A peaceful tropical island stroll. Enjoy your vacation. 	Huzurlu bir tropik ada gezintisi. Tatilinizin keyfini çıkarın. 
+389	difficultytextmedium	You will be challenged, but adventure requires a little danger, right?	Zorlanacaksınız ama macera biraz tehlike gerektirir, değil mi?
+390	difficultytextchallenging	Your enemies are smarter, more accurate, and really pissed off. Good luck. You’ll need it.	Düşmanlarınız daha zeki, daha isabetli ve gerçekten çok öfkeli. İyi şanslar. İhtiyacınız olacak.
+391	difficultytextveteran	Serious jungle madness. We hope you have a high tolerance for pain.	Ciddi orman çılgınlığı. Umarız acıya dayanıklılığınız yüksektir.
+392	difficultytextrealistic	You must be amazingly skilled or incredibly foolish. Forget paradise – this is hell.	Ya inanılmaz yetenekli ya da inanılmaz aptal olmalısınız. Cenneti unutun – burası cehennem.
+393	OverwriteConfirmation	Overwrite Confirmation	Üzerine Yazma Onayı
+394	Improved	Improved	Geliştirilmiş
+395	LevelTraining	Training	Eğitim
+396	LevelCarrier	Carrier	Taşıyıcı
+397	LevelFort	Fort	Kale
+398	LevelPier	Pier	İskele
+399	LevelResearch	Research	Araştırma
+400	LevelTreehouse	Treehouse	Ağaç Ev
+401	LevelBunker	Bunker	Sığınak
+402	LevelSteam	Steam	Buhar
+403	LevelRegulator	Regulator	Regülatör
+404	LevelControl	Control	Kontrol
+405	LevelRebellion	Rebellion	İsyan
+406	LevelArchive	Archive	Arşiv
+407	LevelCooler	Cooler	Soğutucu
+408	LevelBoat	Boat	Tekne
+409	LevelCatacombs	Catacombs	Yeraltı Mezarları
+410	LevelRiver	River	Nehir
+411	LevelSwamp	Swamp	Bataklık
+412	MissionSwamp	 Swamp	 Bataklık
+413	LevelFactory	Factory	Fabrika
+414	LevelDam	Dam	Baraj
+415	LevelVolcano	Volcano	Yanardağ
+416	control65536	Mouse 1	Fare 1
+417	control131072	Mouse 2	Fare 2
+418	control196608	Mouse 3	Fare 3
+419	control262144	Mouse 4	Fare 4
+420	control327680	Mouse 5	Fare 5
+421	control393216	Mouse 6	Fare 6
+422	control458752	Mouse 7	Fare 7
+423	control524288	Mouse 8	Fare 8
+424	control589824	Mouse Wheel Up	Fare Tekerleği Yukarı
+425	control655360	Mouse Wheel Down	Fare Tekerleği Aşağı
+426	control720896	Mouse Axis X	Fare Ekseni X
+427	control786432	Mouse Axis Y	Fare Ekseni Y
+428	NewGameWarningTitle	Start New Game Warning	Yeni Oyun Başlatma Uyarısı
+429	StartNewGameWarning	This will overwrite your saved checkpoints!\nAre you sure you want to do this ?\nNote: You can create a new profile to preserve your checkpoints!	Bu, kayıtlı kontrol noktalarınızın üzerine yazacak!\nBunu yapmak istediğinize emin misiniz?\nNot: Kontrol noktalarınızı korumak için yeni bir profil oluşturabilirsiniz!
+430	ResetToDefault	Reset to defaults 	Varsayılanlara sıfırla 
+431	GenericAreYouSure	Are you sure?	Emin misiniz?
+432	PB	PB	PB
+433	PWD	P	P
+434	EnablePBClient	Enable PunkBuster Client	PunkBuster İstemcisini Etkinleştir
+435	EnablePBServer	Enable PunkBuster Server	PunkBuster Sunucusunu Etkinleştir
+436	LanIPOnly	LAN servers are restricted to LAN IP addresses!	LAN sunucuları yalnızca LAN IP adresleriyle sınırlıdır!
+437	ToggleAim	Toggle Zoom	Yakınlaştırmayı Aç/Kapat
+438	CrouchToggle	Toggle Crouch	Çömelme Aç/Kapat
+439	EnableHDR	HDR Rendering	HDR İşleme
+440	HDRExposure	HDR Exposure	HDR Pozlaması
+441	TeamRedWon	Red team won the game!	Kırmızı takım oyunu kazandı!
+442	TeamBlueWon	Blue team won the game!	Mavi takım oyunu kazandı!
+443	TeamsTie	Team are tied! No winner.	Takımlar berabere! Kazanan yok.
+444	TimeUp	Team is up!	Takım hazır!
+445	TimeRedScoreLimit	Red team reached score limit!	Kırmızı takım skor sınırına ulaştı!
+446	TimeBlueScoreLimit	Blue team reached score limit!	Mavi takım skor sınırına ulaştı!
+447	GameStarted	Game has started!	Oyun başladı!
+448	RedTeamReachedScore	Red team reached the scorelimit!	Kırmızı takım skor sınırına ulaştı!
+449	BlueTeamReachedScore	Blue team reached the scorelimit!	Mavi takım skor sınırına ulaştı!
+450	TheAttackersFail	The attackers fail!	Saldıranlar başarısız oldu!
+451	PointCapturesNowTeleportIn	Point captured, teams teleporting in	Nokta ele geçirildi, takımlar ışınlanıyor
+452	GameOverSwitchTeamsIn	Game over. Switching teams in	Oyun bitti. Takımlar değiştiriliyor:
+453	TeamRedWon	team Red has won the game	Kırmızı takım oyunu kazandı
+454	TeamBlueWon	team Blue has won the game	Mavi takım oyunu kazandı
+455	TeamTie	teams are tied, nobody won	takımlar berabere, kimse kazanmadı
+456	CaptureNotYet	You cannot capture this point yet	Bu noktayı henüz ele geçiremezsiniz
+457	CapturedObj	captured the objective	hedefi ele geçirdi
+458	ObjWasCaptured	The objective was captued	hedef ele geçirildi
+459	AttackerWon	the attacker team won!!!!!!	saldıran takım kazandı!!!!!!
+460	GameRestartIn	Game restarting in	Oyun yeniden başlatılıyor:
+461	HasConnected	connected	bağlandı
+462	HasJoinedTeam	has joined team	takıma katıldı
+463	AllReadyStart	all players ready, starting Game:..	tüm oyuncular hazır, Oyun başlatılıyor:..
+464	HasLeftGame	has left the game	oyundan ayrıldı
+465	VoteFailNoSpec	only players can call votes	yalnızca oyuncular oylama başlatabilir
+466	ReadyOnlyInPrewar	ready: game in progress!	hazır: oyun sürüyor!
+467	IsReady	is ready	hazır
+468	ChangeMapTo	changing map to	harita değiştiriliyor:
+469	KickingPlayer	kicking player	oyuncu atılıyor
+470	RestartingGame	restarting game	oyun yeniden başlatılıyor
+471	AbortingGame	aborting game	oyun iptal ediliyor
+472	RespawningIn	Respawning in	Yeniden doğma:
+473	InvEndsIn	Invulnerability ends in	Dokunulmazlık bitiyor:
+474	Ready	ready:	ready:
+475	PlayerCountNotOk	Game won't start until both teams have	Her iki takımda da yeterli oyuncu olana kadar oyun başlamayacak
+476	PlayerCountNotOk2	players!	oyuncu!
+477	PlyOnTeam	on team	takımında
+478	hasGrabbededEnemyFlg	has grabbed the enemy flag	düşman bayrağını kaptı
+479	TeamScores	team scores	takım skor yapıyor
+480	BlueCaptureHold	$2The Blue team captured a point	$2Mavi takım bir noktayı ele geçirdi
+481	RedCaptureHold	$4The Red team captured a point	$4Kırmızı takım bir noktayı ele geçirdi
+482	FlagReturn	flag has been returned	bayrak geri getirildi
+483	FlagLost	team has lost the flag	takım bayrağı kaybetti
+484	TimeIsUp	time is up!	süre doldu!
+485	OpenMenuAndJoinNonTeam	open the menu (ESC) and join the player team	menüyü açın (ESC) ve oyuncu takımına katılın
+486	OpenMenuAndJoinTeam	open the menu (ESC) and join a team	menüyü açın (ESC) ve bir takıma katılın
+487	Spectating	spectating	izleniyor
+488	GameStarted	game has started!	oyun başladı!
+489	PlyReachedScore	reached the scorelimit!	skor sınırına ulaştı!
+490	VoteWasCalled	vote called by	oylamayı başlatan:
+491	VoteYesNo	type "\vote yes" or "\vote no" to vote	oy vermek için "\vote yes" veya "\vote no" yazın
+492	VoteInProgress	vote already in progress!	zaten oylama sürüyor!
+493	VoteUnknCommand	can't vote on this command, or unknown command	bu komut için oy verilemez veya bilinmeyen komut
+494	ListOfVoteCmd	try:	try:
+495	NoVoteInProgress	no vote in progress!	süren oylama yok!
+496	VoteCastBy	vote cast by	oyu veren:
+497	VotePassed	vote passed:	oylama kabul edildi:
+498	TimeLeft	Time Left:	Kalan Süre:
+499	NoTimeLimit	No time limit	Süre sınırı yok
+500	ChooseTeam	Choose your team...	Takımınızı seçin...
+501	ChooseClass	Choose your class...	Sınıfınızı seçin...
+502	ChooseWeapon	Choose your weapons...	Silahlarınızı seçin...
+503	Reinforcements	Reinforcements:	Takviyeler:
+504	PREWAR	PREWAR	SAVAŞ ÖNCESİ
+505	CountdownNo	Countdown:	Geri Sayım:
+506	POAtt	$1Attacker	$1Saldıran
+507	PODef	$1Defender	$1Savunan
+508	PlayerRenamed	$1 renamed to	$1 adı değişti:
+509	ReachedMaxTeam	$1Reached the max teamlimit for team	$1takımı için en yüksek takım sınırına ulaşıldı
+510	ObituaryKilled	$1killed	$1öldürdü
+511	ObituarySuicided	$1suicided	$1intihar etti
+512	ObituaryKilledTeammate	$1killed teammate	$1takım arkadaşını öldürdü
+513	PlayerCountNotOk2	players join each team	oyuncu her takıma katılsın
+514	HasJoinedThe	has joined the	katıldı:
+515	TeamNameRed	red	kırmızı
+516	TeamNameBlue	blue	mavi
+517	TeamNamePlayers	players	oyuncular
+518	TeamNameSpectators	spectators	izleyiciler
+519	CmdSay	say:	say:
+520	CmdSayTeam	sayteam:	sayteam:
+521	ScoreBoardTeamScore	SCORE	SKOR
+522	ScoreBoardClass	CLASS	SINIF
+523	ScoreBoardKills	KILLS	ÖLDÜRME
+524	ScoreBoardDeaths	DEATHS	ÖLÜM
+525	ScoreBoardEfficiency	EFFICIENCY	VERİMLİLİK
+526	ScoreBoardPing	PING	PING
+527	ScoreBoardSupport	SUPPORT	DESTEK
+528	ScoreBoardSpectators	$6SPECTATORS	$6İZLEYİCİLER
+529	GameStartingIn	Game Starting in	Oyun Başlıyor:
+530	GameStartingInSeconds	seconds!	saniye!
+531	MPChatPrivate	($9Private$1):$9	($9Özel$1):$9
+532	MPChatTeam	($3Team$1):$3	($3Takım$1):$3
+533	PlayerCountNotOkNoTeam	Game won't start until	Oyun, yeterli oyuncu olana kadar başlamayacak
+534	PlayerCountNotOk2NoTeam	players join the game	oyuncu oyuna katılsın
+535	UbiInvalidCDKey	Invalid CD Key	Geçersiz CD Anahtarı
+536	MinPlayersTooHigh	Min Players per Team cannot be higher than Max Players per Team!	Takım başına En Az Oyuncu, Takım başına En Fazla Oyuncudan yüksek olamaz!
+537	MaxPlayersTooHigh	Max Players per Team cannot be higher than Max Players Total!	Takım başına En Fazla Oyuncu, Toplam En Fazla Oyuncudan yüksek olamaz!
+538	MinPlayersTooHigh2	Min Players per Team cannot be higher than half of Max Players Total!	Takım başına En Az Oyuncu, Toplam En Fazla Oyuncunun yarısından yüksek olamaz!
+539	archive_Call_elevator1	Press Use key to call the elevator	Asansörü çağırmak için Kullan tuşuna basın
+540	archive_Call_elevator2	Press the Use Button to go down	Aşağı inmek için Kullan düğmesine bas
+541	archive_Call_elevator3	Press the Use Button to go up	Yukarı çıkmak için Kullan düğmesine bas
+542	archive_button1	Press Use Button to activate the door	Kapıyı etkinleştirmek için Kullan düğmesine bas
+543	archive_door1	Security lock down	Güvenlik kilidi devrede
+544	GoToLastWorkingC	Go to last working cargo elevator.	Çalışır durumdaki son yük asansörüne git.
+545	NewObjective	New Objective	Yeni Görev
+546	LoadingNextMissi	Loading next mission	Sonraki görev yükleniyor
+547	deactivatesecurit	Press Use button to deactivate the security lock	Güvenlik kilidini devre dışı bırakmak için Kullan düğmesine bas
+548	NeedKey_archive	The special forces have the keycard to open the door	Kapıyı açacak anahtar kart özel kuvvetlerde
+549	open_door	Press USE to open the door	Kapıyı açmak için KULLAN'a bas
+550	pull_lever	Press USE to pull the lever	Kolu çekmek için KULLAN'a bas
+551	insert_keycard	Press USE to insert keycard	Anahtar kartı takmak için KULLAN'a bas
+552	move_elevator_down	Press USE to move elevator down	Asansörü aşağı indirmek için KULLAN'a bas
+553	call_elevator	Press USE to call the elevator	Asansörü çağırmak için KULLAN'a bas
+554	move_elevator_up	Press USE to move elevator up	Asansörü yukarı çıkarmak için KULLAN'a bas
+555	plant_explosives_here	Press USE to plant explosives here	Patlayıcıları buraya yerleştirmek için KULLAN'a bas
+556	HintDontGoIntoDe	Hint: Dont go into deep water, they will find and kill you quickly.	İpucu: Derin suya girme, seni çabucak bulup öldürürler.
+557	useYourRadarAndG	Use your radar and go back to the islands	Radarını kullan ve adalara geri dön
+558	LandOnTheFirstIs	Land on the first island	İlk adaya in
+559	GetTheThreeExplo	Get the three explosive located on the first island	İlk adadaki üç patlayıcıyı al
+560	YouveFoundTheExp	Youve found the explosives, now destroy the first tower	Patlayıcıları buldun, şimdi ilk kuleyi yok et
+561	DestroyTheFirstT	Destroy the first tower	İlk kuleyi yok et
+562	FirstTowerDestro	First Tower destroyed, now destroy next one	İlk kule yok edildi, şimdi sıradakini yok et
+563	DestroyTheSecond	Destroy the second tower	İkinci kuleyi yok et
+564	SecondTowerDestr	Second tower destroyed, now destroy last one	İkinci kule yok edildi, şimdi sonuncuyu yok et
+565	DestroyTheLastTo	Destroy the last tower	Son kuleyi yok et
+566	GoAndDestroyTheF	Go and destroy the freighter!	Git ve yük gemisini yok et!
+567	PlaceTheExplosiv	Place the explosives on the fuel tank	Patlayıcıları yakıt tankına yerleştir
+568	ThisIsGoingToBeA	This is going to be a BIG explosion,	Bu BÜYÜK bir patlama olacak,
+569	getToTheFrontOfT	get to the front of the ship!!	Geminin önüne geç!!
+570	HurryYouOnlyHave	Hurry, you only have 25 seconds	Acele et, sadece 25 saniyen var
+571	GetToTheFrontOfT	Get to the front of the ship!!	Geminin önüne geç!!
+572	missionSuccessfu	mission_successful	Görev başarılı
+573	pressuseexpboat	Press USE to plant bomb	Bomba yerleştirmek için KULLAN'a bas
+574	GetToTheHelicopt	Get to the helicopter landing pad	Helikopter pistine git
+575	Bunker_Lift	Press USE to activate lift	Asansörü etkinleştirmek için KULLAN'a bas
+576	Bynker_Use_Console	Press USE to open cages from console	Kafesleri konsoldan açmak için KULLAN'a bas
+577	Bunker_Alarm_Deactivated	Bunker Alarm deactivated	Sığınak alarmı devre dışı bırakıldı
+578	Bunker_Open_Door	Press USE to open door	Kapıyı açmak için KULLAN'a bas
+579	GoToTopAndGetABo	Get to the top of the Carrier	Geminin en üstüne çık
+580	LookForValOnTheW	Find Valerie if possible	Mümkünse Valerie'yi bul
+581	PressFToUseYourF	Press FLASHLIGHT to turn your flashlight on/off (Default L)	El fenerini açıp kapatmak için FLASHLIGHT'a bas (Varsayılan L)
+582	FindValerieSPoss	Find Valerie's possessions	Valerie'nin eşyalarını bul
+583	FindTheBoat	Find the Boat	Tekneyi bul
+584	ObjectiveComplet	Objective completed	Görev tamamlandı
+585	DriveBoatToTheNe	Drive the boat East	Tekneyi doğuya sür
+586	Carrier_Alarm_deactivated	Carrier alarm deactivated	Gemi alarmı devre dışı bırakıldı
+587	LookForValerie	Look for Valerie	Valerie'yi ara
+588	YouHaveToFindAny	You can't leave until you find out Val's location!	Val'in yerini öğrenmeden buradan ayrılamazsın!
+589	FollowThePathToT	Follow the path to the ancient temple	Antik tapınağa giden yolu takip et
+590	BreakIntoTheCata	Break into the catacombs	Yeraltı mezarlarına gir
+591	RetrieveMurphysP	Retrieve the missing PDA	Kayıp PDA'yı geri al
+592	FindAWayOutOfThe	Find a way out of the catacombs	Yeraltı mezarlarından çıkış yolu bul
+593	FindSomeExplosiv	Find some explosives	Biraz patlayıcı bul
+594	PlaceTheExplosiv	Place the explosives at the rock fall at the temple entrance	Patlayıcıları tapınak girişindeki kaya çöküntüsüne yerleştir
+595	NewObjectives	New Objectives	Yeni Görevler
+596	compound_open_door	Press USE key to open the door	Kapıyı açmak için KULLAN tuşuna bas
+597	compound_alarm_deactivated	Alarm deactivated	Alarm devre dışı bırakıldı
+598	compound_alarm_activated	Alarm activated	Alarm etkinleştirildi
+599	compound_press_button	Press USE key to press the button	Düğmeye basmak için KULLAN tuşuna bas
+600	PlaceTheNuclearD	Place the nuclear device	Nükleer cihazı yerleştir
+601	DefendValWhileSh	Defend Val while she arms the bomb	O bombayı kurarken Val'i koru
+602	FindTheSerum	Find the Serum	Serumu bul
+603	EscapeFromCompou	Escape from compound	Yerleşkeden kaç
+604	GetOutOfTheCompo	Get out of the compound	Yerleşkeden çık
+605	NewObjective	New objective	Yeni görev
+606	GetAVehicleAndFo	Get a vehicle and follow the path	Bir araç al ve yolu takip et
+607	EnterTheMainBuil	Enter the main building and meet with Valerie	Ana binaya gir ve Valerie ile buluş
+608	PushSwitchToOpen	Push switch to open gate	Kapıyı açmak için şaltere bas
+609	FindGarageKeyInT	Find garage key in the guards room	Nöbetçi odasında garaj anahtarını bul
+610	ThisIsTheKeyForT	This is the key for the garage door	Bu, garaj kapısının anahtarı
+611	GetOutOfTheBuild	Get out of the building	Binadan çık
+612	30Sec	30 seconds	30 saniye
+613	closevalve	Press USE to close steam valve	Buhar vanasını kapatmak için KULLAN'a bas
+614	cooler_door1	You need a keycard to open this door	Bu kapıyı açmak için bir anahtar karta ihtiyacın var
+615	cooler_switch1	Press Use key to enable access to the elevator	Asansöre erişimi etkinleştirmek için Kullan tuşuna bas
+616	cooler_switch2	Press Use Button to activate the big door to the tank rooms	Tank odalarına giden büyük kapıyı etkinleştirmek için Kullan düğmesine bas
+617	cooler_switch3	Press Use Button to let sea water into the complex	Yerleşkeye deniz suyu doldurmak için Kullan düğmesine bas
+618	cooler_elevator1	Press the Use Button to call the elevator	Asansörü çağırmak için Kullan düğmesine bas
+619	cooler_elevator2	Press Use Button to move down	Aşağı inmek için Kullan düğmesine bas
+620	cooler_elevator3	Press Use Button to move up	Yukarı çıkmak için Kullan düğmesine bas
+621	FindSecuritySwit	Find security switch to acess the elevator	Asansöre erişmek için güvenlik şalterini bul
+622	ObjectiveYouFoun	You found the security switch to acess the elevator	Asansöre erişim sağlayan güvenlik şalterini buldun
+623	FloodTheMutagenR	Flood the mutagen room to acess the upper floor	Üst kata erişmek için mutajen odasını suyla doldur
+624	ObjectiveYouFloo	You flooded the mutagen room to acess the upper floor	Üst kata erişmek için mutajen odasını suyla doldurdun
+625	GoToValerysLastK	Go to Valeries last known position	Valerie'nin bilinen son konumuna git
+626	SaveValerie	Save Valerie	Valerie'yi kurtar
+627	dam_call_elevator	press USE button to call elevator	Asansörü çağırmak için KULLAN düğmesine bas
+628	dam_use_elevator	press USE button to use elevator	Asansörü kullanmak için KULLAN düğmesine bas
+629	GoToTheVulcanoLa	Go to the Volcano Laboratory	Volkan Laboratuvarına git
+630	FindKriegerInHis	Find Krieger in his facility	Krieger'ı tesisinde bul
+631	GetTheSerumFromD	Get the serum from Doyle	Serumu Doyle'dan al
+632	UBISOFTCUTSCENE	UBISOFT CUTSCENE!	UBISOFT ARA SAHNESİ!
+633	ValIWillTakeTheB	Val: I will take the bomb, you have to clear the way.	Val: Bombayı ben alacağım, sen yolu temizle.
+634	ValIWillWaitHere	Val: I will wait here.	Val: Burada bekleyeceğim.
+635	ValGetInsideAndC	Val: Get inside and call the elevator. Contact me and I will come.	Val: İçeri gir ve asansörü çağır. Benimle bağlantı kur, ben gelirim.
+636	GetInsideAndCall	Get inside and call the elevator.	İçeri gir ve asansörü çağır.
+637	JackTheElevatorI	Jack: The elevator is coming.	Jack: Asansör geliyor.
+638	ValOkayJackJustA	Val: Okay Jack, just a moment, I am there soon. 	Val: Tamam Jack, bir dakika, birazdan oradayım.
+639	JackNoIHaveToWai	You have to wait for Valerie. 	Valerie'yi beklemelisin.
+640	JackWeNeedToStay	Jack: We need to stay together. 	Jack: Birlikte kalmalıyız.
+641	ValIAmInLetsGo	Val: I am in. Lets go!	Val: İçerideyim. Hadi gidelim!
+642	ValIWillStayHere	Val: I will stay here. Take care of the next area.	Val: Burada kalacağım. Sonraki bölgeyle sen ilgilen.
+643	ValThereWillBeAC	Val: There will be a closed gate you have to open from the other side.	Val: Diğer taraftan açman gereken kapalı bir kapı olacak.
+644	ValIWillComeAfte	Val: I will come after you managed to open it.	Val: Onu açmayı başardıktan sonra arkandan geleceğim.
+645	OpenTheNextGateT	Open the next gate to help the forklift pass this section.	Forkliftin bu bölümü geçmesine yardım etmek için sonraki kapıyı aç.
+646	JackItsOpenNow	Jack: Its open now.	Jack: Şimdi açık.
+647	ValIAmThereInASe	Val: I am there in a second.	Val: Bir saniye içinde oradayım.
+648	JackCanYouOpenTh	Jack: Can you open this one? Its seems different.	Jack: Bunu açabilir misin? Farklı görünüyor.
+649	ValICanTryMaybeO	Val: I can try. Maybe one of the codes from the COMM OPs works.	Val: Deneyebilirim. Belki COMM OPs'teki kodlardan biri uyar.
+650	ValDoneWeAreAlmo	Val: Done. We are almost through. Just open the gate to the mutagen chamber.	Val: Tamam. Neredeyse geçtik. Sadece mutajen odasına giden kapıyı aç.
+651	ValThenWeHaveToA	Val: Then we have to arm the nuke.	Val: Sonra bombayı kurmalıyız.
+652	OpenTheGateToThe	Open the gate to the mutagen chamber.	Mutajen odasına giden kapıyı aç.
+653	JackOkayThisGate	Jack: Okay, this gate is open as well.	Jack: Tamam, bu kapı da açık.
+654	ValThanksJack	Val: Thanks, Jack.	Val: Teşekkürler, Jack.
+655	OpenTheGateToThe	Open the gate to the Mutagen Chamber.	Mutajen Odasına giden kapıyı aç.
+656	ValINeedToArmThe	Val: I need to arm the bomb now.	Val: Şimdi bombayı kurmalıyım.
+657	ValWatchMyBack	Val: Watch my back.	Val: Arkamı kolla.
+658	ProtectValerieWh	Protect Valerie while she is arming the bomb.	O bombayı kurarken Valerie'yi koru.
+659	ValICantFinishTh	Val: I cant finish this while those guys are around.	Val: Bu adamlar etraftayken bunu bitiremem.
+660	ValEliminateThem	Val: Eliminate them Jack, PLEASE!	Val: Onları ortadan kaldır Jack, LÜTFEN!
+661	ValFollowMeNowWe	Val: Follow me now. We need to get the antidote.	Val: Şimdi beni takip et. Panzehiri almalıyız.
+662	ValThisWillMakeU	Val: This will make us immune if something goes wrong.	Val: Bir şeyler ters giderse bu bizi bağışık yapacak.
+663	FollowValerie	Follow Valerie	Valerie'yi takip et
+664	ValErrorWrongMes	Val: Error; wrong message	Val: Hata; yanlış mesaj
+665	ValIWillGoAndArm	Val: I will go and arm the bomb now. Keep close Jack.	Val: Gidip bombayı kuracağım. Yakın dur Jack.
+666	ValJackWeNeedToL	Val: Jack, we need to leave now. 	Val: Jack, hemen gitmeliyiz.
+667	ValInAFewMinutes	Val: In a few minutes we better be very far away from here!	Val: Birkaç dakika içinde buradan çok uzakta olsak iyi olur!
+668	GetTheHellOutOfH	Get the hell out of here. Val will follow you.	Defol git buradan. Val seni takip edecek.
+669	ValOkayThisOneIs	Val: Okay, this one is open now as well.	Val: Tamam, bu da açıldı.
+670	ValGetUsOutOfHer	Val: Get us out of here now.	Val: Bizi buradan hemen çıkar.
+671	ValWeHaveToTakeT	Val: We have to take this plane.	Val: Bu uçağa binmeliyiz.
+672	ValThatsOurOnlyW	Val: Thats our only way out.	Val: Tek çıkış yolumuz bu.
+673	GetToThePlane	Get to the plane.	Uçağa git.
+674	open_gate	Press USE to open the gate	Kapıyı açmak için KULLAN'a bas
+675	fort_elevator_down	Press USE to call elevator down (Default F)	Asansörü aşağı çağırmak için KULLAN'a bas (Varsayılan F)
+676	fort_elevator_up	Press USE to call elevator up (Default F)	Asansörü yukarı çağırmak için KULLAN'a bas (Varsayılan F)
+677	fort_plant_bomb	Press USE to plant bomb (Default F)	Bomba yerleştirmek için KULLAN'a bas (Varsayılan F)
+678	GoToTheFortRuinO	Get to the fort ruins on top of the mountain	Dağın tepesindeki kale kalıntılarına git
+679	DefendYourselfUn	Defend yourself until Doyle opens the door	Doyle kapıyı açana kadar kendini savun
+680	FindExplosiveAnd	Find an explosive pack and plant near gas generator	Bir patlayıcı paketi bul ve gaz jeneratörünün yanına yerleştir
+681	DefendYourselfUn	Defend yourself until Doyle hacks the door code	Doyle kapı kodunu kırana kadar kendini savun
+682	GetOutOfTheBuild	Get away from the generator	Jeneratörden uzaklaş
+683	presstabto	Press TAB to see your mission objectives	Görev hedeflerini görmek için TAB'a bas
+684	pressuseboat	Press the USE key (Default F) to exit the boat	Tekneden inmek için KULLAN tuşuna bas (Varsayılan F)
+685	Get_inside_the_comm_center_and_kill_the_commander	Get inside the comm center and kill the commander	İletişim merkezine gir ve komutanı öldür
+686	BuildProgress	Build Progress	İnşa İlerlemesi
+687	RepairProgress	Repair Progress	Onarım İlerlemesi
+688	AvertCapture	$8Averted Capture	$8Yakalanma Önledi
+689	BeginCapture	$8Begin Capture	$8Yakalamayı Başlat
+690	OpenDoor	Press USE button to open the door	Kapıyı açmak için KULLAN düğmesine bas
+691	NeedKey	You need a key to open this door	Bu kapıyı açmak için bir anahtara ihtiyacın var
+692	AG36	AG36	AG36
+693	SniperRifle	Sniper Rifle	Keskin Nişan Tüfeği
+694	Falcon	Falcon .357	Falcon .357
+695	MP5	MP5 SMG	MP5 SMG
+696	Machete	Machete	Machete
+697	Shotgun	Jackhammer Shotgun	Jackhammer Shotgun
+698	OICW	OICW Assault Weapon	OICW Saldırı Silahı
+699	RL	Rocket Launcher	Roketatar
+700	P90	P90 SMG	P90 SMG
+701	M4	M4 Assault Weapon	M4 Saldırı Silahı
+702	Shocker	Shocker	Shocker
+703	M249	Machinegun	Makineli Tüfek
+704	Mortar	Mortar	Havan
+705	COVERRL	COVERRL	COVERRL
+706	MG	Minigun	Minigun
+707	MutantShotgun	Mutant Shotgun	Mutant Av Tüfeği
+708	EngineerTool	Wrench	İngiliz Anahtarı
+709	MedicTool	Injector	Enjektör
+710	ScoutTool	Explosive	Patlayıcı
+711	AG36Grenade	AG36 Grenade	AG36 El Bombası
+712	HandGrenade	Handgrenade	El Bombası
+713	OICWGrenade	OICW Grenade	OICW El Bombası
+714	Pistol	Pistol	Tabanca
+715	Rocket	Rocket	Roket
+716	Shotgun	Shotgun	Av Tüfeği
+717	SMG	SMG	SMG
+718	SmokeGrenade	Smoke Grenade	Duman Bombası
+719	PressDropWeapon	Press DROPWEAPON (Default J) to drop the	Bırakmak için DROPWEAPON'a bas (Varsayılan J)
+720	AndPickUp	and pick up the	ve al
+721	YouPickedUp	You picked up	Aldın:
+722	YouPickedUpA	You picked up a	Şunu aldın:
+723	YouPickedUpAn	You picked up an	Şunu aldın:
+724	UnitOfAmmunition	unit(s) of ammunition	birim cephane
+725	KeyCard	KeyCard	Anahtar Kart
+726	UnitsOf	units of	birim
+727	Ammo	ammo	cephane
+728	Armor	Armor	Zırh
+729	pickup_not_possible	You cannot pickup anymore	Daha fazla alamazsın
+730	armor_pickup_not_possible_trail	armor	zırh
+731	medi_pickup_not_possible	Health is full, you can not pickup anymore medipacks	Sağlığın tam, daha fazla sağlık çantası alamazsın
+732	Cannotcarrymorethan4exp	You cannot carry more than 4 explosives	4'ten fazla patlayıcı taşıyamazsın
+733	Checkpointreached	Checkpoint reached	Kontrol noktasına ulaşıldı
+734	Gamesaved	Game Saved	Oyun Kaydedildi
+735	bino1	Press BINOCULARS to use (Default B)	Kullanmak için DÜRBÜN tuşuna bas (Varsayılan B)
+736	bino2	Zoom in/out with the mousewheel (or + - keys)	Fare tekerleği (veya + - tuşları) ile yakınlaştır/uzaklaştır
+737	bino3	Moving enemies are marked on your compass.	Hareket eden düşmanlar pusulanda işaretlenir.
+738	bino4	Enemies out of range are marked with an arrow.	Menzil dışındaki düşmanlar ok ile işaretlenir.
+739	compass1	You picked up a detector - Yellow enemies are alerted	Bir dedektör aldın - Sarı düşmanlar tetikte
+740	compass2	Red enemies are engaging - Green enemies are unaware	Kırmızı düşmanlar saldırıyor - Yeşil düşmanlar farkında değil
+741	compass3	The stealth bar tells you there current state of awareness	Gizlilik çubuğu mevcut farkındalık durumunu gösterir
+742	Sniper	Sniper	Keskin Nişancı
+743	FlashbangGrenade	Flashbang Grenade	Flaş Bombası
+744	cantexitvehicle	You can't exit from vehicle here	Buradan araçtan çıkamazsın
+745	vehicledamaged	The vehicle is damaged, you cannot use it	Araç hasarlı, kullanamazsın
+746	driverforklift	Press USE KEY to drive the Forklift	Forklifti sürmek için KULLAN TUŞUNA bas
+747	driverhumvee	Press USE KEY to drive the 4WD vehicle	4x4 aracı sürmek için KULLAN TUŞUNA bas
+748	driverbuggy	Press USE KEY to drive the Buggy	Buggy'yi sürmek için KULLAN TUŞUNA bas
+749	driverbigtruck	Press USE KEY to drive the Big Truck	Kamyonu sürmek için KULLAN TUŞUNA bas
+750	driverboat	Press USE KEY to drive the Patrol Boat	Devriye Botunu sürmek için KULLAN TUŞUNA bas
+751	driverzodiac	Press USE KEY to drive the Inflatable Boat	Şişme Botu sürmek için KULLAN TUŞUNA bas
+752	driverparaglider	Press USE KEY to fly the Hang Glider	Yelken Kanadı uçurmak için KULLAN TUŞUNA bas
+753	gunnerhumvee	Press USE KEY to enter gunner of 4WD vehicle	4x4 aracın nişancı koltuğuna geçmek için KULLAN TUŞUNA bas
+754	gunnerboat	Press USE KEY to enter gunner of Patrol Boat	Devriye Botunun nişancı koltuğuna geçmek için KULLAN TUŞUNA bas
+755	passengerhumvee	Press USE KEY to enter passenger of 4WD vehicle	4x4 aracın yolcu koltuğuna geçmek için KULLAN TUŞUNA bas
+756	passengerzodiac	Press USE KEY to enter passenger of Inflatable Boat	Şişme Botun yolcu koltuğuna geçmek için KULLAN TUŞUNA bas
+757	passengerbigtruck	Press USE KEY to enter passenger of Big Truck	Kamyonun yolcu koltuğuna geçmek için KULLAN TUŞUNA bas
+758	passengerbuggy	Press USE KEY to enter passenger of Buggy	Buggy'nin yolcu koltuğuna geçmek için KULLAN TUŞUNA bas
+759	usemortar	Press USE KEY to use the Mortar	Havanı kullanmak için KULLAN TUŞUNA bas
+760	usemachinegun	Press USE KEY to use the MachineGun	Makineli Tüfeği kullanmak için KULLAN TUŞUNA bas
+761	switchviewpara	Press SwitchView (Default F1) to toggle the view 	Görünümü değiştirmek için Görünüm Değiştir tuşuna bas (Varsayılan F1)
+762	secondsleft	seconds left	saniye kaldı
+763	drivefox	Press USE KEY to jump off the flying fox	Teleferikten atlamak için KULLAN TUŞUNA bas
+764	pushboat	Press USE KEY to push the boat into water 	Tekneyi suya itmek için KULLAN TUŞUNA bas
+765	disable_alarm	Press USE to disable alarm	Alarmı devre dışı bırakmak için KULLAN tuşuna bas
+766	Dolby51	Dolby 5.1	Dolby 5.1
+767	airstrip_C1_A1	Capture the tower!	Kuleyi ele geçir!
+768	airstrip_C1_D1	Defend the tower!	Kuleyi savun!
+769	airstrip_C2_A1	Capture the airstrip!	Pisti ele geçir!
+770	airstrip_C2_D1	Defend the airstrip!	Pisti savun!
+771	airstrip_C3_A1	Capture the heliport!	Heliportu ele geçir!
+772	airstrip_C3_D1	Defend the heliport!	Heliportu savun!
+773	airstrip_win	Great job team!	Harika iş takım!
+774	airstrip_lose	You failed.	Başaramadın.
+775	airstrip_lose	You failed!	Başaramadın!
+776	mp_airstrip_S1_A1	We have to take the radio antenna to block the enemy from calling in reinforcements. They'll probably be expecting us and are preparing defenses. Take the antenna!	Düşmanın takviye çağırmasını engellemek için telsiz antenini almalıyız. Muhtemelen bizi bekliyor ve savunma hazırlıyor olacaklar. Anteni ele geçirin!
+777	mp_airstrip_S1_D1	Right, listen up everyone. We believe the enemy will attack the radio relay station. Without this, we can't communicate with HQ. Establish a defensive perimeter and resist them.	Dinleyin millet. Düşmanın telsiz aktarma istasyonuna saldıracağına inanıyoruz. Bu olmadan Karargah ile iletişim kuramayız. Savunma çevresi oluşturun ve onlara direnin.
+778	mp_airstrip_C1_A1	We've taken the antenna! The enemy is trying to get a cargo plane containing supplies and explosives out of the area. Take the airstrip and secure the goods.	Anteni aldık! Düşman erzak ve patlayıcı yüklü bir kargo uçağını bölgeden çıkarmaya çalışıyor. Pisti ele geçirin ve malları güvenceye alın.
+779	mp_airstrip_C1_D1	They took the tower! Now we can't call in reinforcements from HQ. We'll have to protect the plane ourselves and stop the enemy from getting their hands on the supplies. Protect the plane!	Kuleyi aldılar! Artık Karargahtan takviye çağıramayız. Uçağı kendimiz korumalı ve düşmanın erzakları ele geçirmesini engellemeliyiz. Uçağı koruyun!
+780	mp_airstrip_C2_A1	The plane and it's cargo are in our hands! There's a helipad at the end of the runway the enemy will try to use to escape. Stop them from escaping at the helipad!	Uçak ve kargosu elimizde! Pist sonunda düşmanın kaçmak için kullanacağı bir helikopter pisti var. Helikopter pistinde kaçmalarını engelleyin!
+781	mp_airstrip_C2_D1	They took the plane! Without our supplies, we must retreat. Fall back to the helipad and defend it long enough to call in an escort chopper. Go, go, go!	Uçağı aldılar! Erzaklarımız olmadan geri çekilmeliyiz. Helikopter pistine çekilin ve eskort helikopteri çağıracak kadar uzun süre savunun. Hadi, hadi, hadi!
+782	mp_airstrip_C3_A1	We have taken the helipad!	Helikopter pistini ele geçirdik!
+783	mp_airstrip_C3_D1	They've taken the helipad!	Helikopter pistini ele geçirdiler!
+784	lake_C1_A1	Capture the village!	Köyü ele geçir!
+785	lake_C1_D1	Defend the village!	Köyü savun!
+786	lake_C2_A1	Capture the base!	Üssü ele geçir!
+787	lake_C2_D1	Defend the base!	Üssü savun!
+788	lake_C3_A1	Capture the dam!	Barajı ele geçir!
+789	lake_C3_D1	Defend the dam!	Barajı savun!
+790	lake_win	Well done team!	Aferin takım!
+791	mp_lake_S1_A1	Our final objective is to take the dam, but first, we must capture the village as a forward base. Seize the village!	Nihai hedefimiz barajı almak, ama önce ileri üs olarak köyü ele geçirmeliyiz. Köyü ele geçirin!
+792	mp_lake_S1_D1	Invaders are working their way into the village. We suspect they're heading towards the dam. Hold the village as a first line of defense!	İşgalciler köye doğru ilerliyor. Baraja doğru gittiklerinden şüpheleniyoruz. Köyü ilk savunma hattı olarak tutun!
+793	mp_lake_C1_A1	They have fallen back from the village! Move forward into the irrigation canal!	Köyden geri çekildiler! Sulama kanalına doğru ilerleyin!
+794	mp_lake_C1_D1	We've lost the village! Fall back and defend the irrigation canal!	Köyü kaybettik! Geri çekilin ve sulama kanalını savunun!
+795	mp_lake_C2_A1	Good work! We control the canal, now take the dam!	İyi iş! Kanal bizde, şimdi barajı alın!
+796	mp_lake_C2_D1	They have taken the canal! Regroup and defend the dam!	Kanalı aldılar! Toplanın ve barajı savunun!
+797	mp_lake_C3_A1	We've captured the dam!	Barajı ele geçirdik!
+798	mp_lake_C3_D1	They have captured the dam!	Barajı ele geçirdiler!
+799	dune_C1_A1	Capture the warehouse!	Depoyu ele geçir!
+800	dune_C1_D1	Defend the warehouse!	Depoyu savun!
+801	dune_C3_A1	Capture the dock!	Rıhtımı ele geçir!
+802	dune_C3_D1	Defend the dock!	Rıhtımı savun!
+803	mp_dune_S1_A1	Okay, team, we're going to mount an attack on the communications center north of here. Take the tower and dispose of any resistance you encounter!	Tamam takım, kuzeydeki iletişim merkezine saldıracağız. Kuleyi alın ve karşılaştığınız direnişi etkisiz hale getirin!
+804	mp_dune_S1_D1	We have reports of enemy activity near the south of the island. They may be mounting an attack on our communications tower. Get down there and stop them!	Adanın güneyinde düşman hareketliliği raporları aldık. İletişim kulemize saldırabilirler. Oraya gidin ve onları durdurun!
+805	mp_dune_C1_A1	We've taken the radio tower and pushed the enemy back to the village. Take the initiative and gain some territory. Capture the village!	Telsiz kulesini aldık ve düşmanı köye kadar püskürttük. İnisiyatifi ele alın ve toprak kazanın. Köyü ele geçirin!
+806	mp_dune_C1_D1	We've fallen back to the village to build up some defenses and repel the enemy. Defend the village!	Savunma oluşturmak ve düşmanı püskürtmek için köye çekildik. Köyü savunun!
+807	mp_dune_C2_A1	Their forces have retreated further towards the island's harbor. This is our chance to seize the island! Capture the harbor!	Kuvvetleri adanın limanına doğru daha da geri çekildi. Bu adayı ele geçirme şansımız! Limanı ele geçirin!
+808	mp_dune_C2_D1	They've taken our position. Use the harbor's natural defenses to protect the island. Don't let them take this position!	Mevzimizi aldılar. Adayı korumak için limanın doğal savunmasını kullanın. Bu mevziyi onlara kaptırmayın!
+809	mp_dune_C3_A1	We've taken the harbor! The island is ours!	Limanı aldık! Ada bizim!
+810	mp_dune_C3_D1	They have taken the harbor! We've lost the island!	Limanı aldılar! Adayı kaybettik!
+811	freighter_C1_A1	Capture the dock compound!	Rıhtım yerleşkesini ele geçir!
+812	freighter_C1_D1	Defend the dock compound!	Rıhtım yerleşkesini savun!
+813	freighter_C2_A1	Capture the freighter!	Yük gemisini ele geçir!
+814	freighter_C2_D1	Defend the freighter!	Yük gemisini savun!
+815	freighter_C3_A1	Capture the stronghold!	Kaleyi ele geçir!
+816	freighter_C3_D1	Defend the stronghold!	Kaleyi savun!
+817	mp_freighter_S1_A1	Listen up, team. There's a shipment of arms and munitions in those containers. Move out and take that area!	Dinleyin takım. O konteynerlerde bir silah ve mühimmat sevkiyatı var. Harekete geçin ve o bölgeyi alın!
+818	mp_freighter_S1_D1	The enemy is raiding the compound. Defend the area, and guard the containers.	Düşman yerleşkeye baskın yapıyor. Bölgeyi savunun ve konteynerleri koruyun.
+819	mp_freighter_C1_A1	We've taken the supply depot. Move up and secure the dock.	Erzak deposunu aldık. İlerleyin ve rıhtımı güvenceye alın.
+820	mp_freighter_C1_D1	We've lost the depot, but we can resupply as long as the dock is in our hands. Protect it at all costs!	Depoyu kaybettik, ama rıhtım elimizde olduğu sürece erzak alabiliriz. Ne pahasına olursa olsun koruyun!
+821	mp_freighter_C2_A1	We have taken the dock. Only one more area of resistance remains and the island is in our hands. Capture the enemy stronghold!	Rıhtımı aldık. Geriye tek direniş bölgesi kaldı ve ada elimizde. Düşman kalesini ele geçirin!
+822	mp_freighter_C2_D1	We must protect the fort to hold our position on this island. Set up defenses and prepare for the attack.	Adadaki mevzimizi korumak için kaleyi savunmalıyız. Savunma kurun ve saldırıya hazırlanın.
+823	mp_freighter_C3_A1	We've captured the stronghold! The island is ours!	Kaleyi ele geçirdik! Ada bizim!
+824	mp_freighter_C3_D1	We've lost the stronghold! The enemy has taken the island!	Kaleyi kaybettik! Düşman adayı aldı!
+825	jungle_C1_A1	Capture the solar array!	Güneş panellerini ele geçir!
+826	jungle_C1_D1	Defend the solar array!	Güneş panellerini savun!
+827	jungle_C2_A1	Capture the crash site!	Enkaz alanını ele geçir!
+828	jungle_C2_D1	Defend the crash site!	Enkaz alanını savun!
+829	mp_jungle_S1_A1	We must capture the administration facility. First, take out the solar battery to shut off their power.	Yönetim tesisini ele geçirmeliyiz. Önce güçlerini kesmek için güneş bataryasını devre dışı bırakın.
+830	mp_jungle_S1_D1	We have reports of enemy activity in the area. We suspect their final goal is the administration facility. They'll likely attack the solar compound first, so defend that compound!	Bölgede düşman hareketliliği raporları aldık. Nihai hedeflerinin yönetim tesisi olduğundan şüpheleniyoruz. Muhtemelen önce güneş tesisine saldıracaklar, o yüzden o tesisi savunun!
+831	mp_jungle_C1_A1	We've taken the solar battery! There's a crashed cargo plane nearby that may have valuable materials. Capture the crash site!	Güneş bataryasını aldık! Yakında değerli malzemeler olabilecek düşmüş bir kargo uçağı var. Enkaz alanını ele geçirin!
+832	mp_jungle_C1_D1	Our transport plane has crash landed near the heliport. Get over there and secure the site!	Nakliye uçağımız heliport yakınlarına düştü. Oraya gidin ve bölgeyi güvenceye alın!
+833	mp_jungle_C2_A1	We've secured the crash site! Move on and take the facility!	Enkaz alanını güvenceye aldık! İlerleyin ve tesisi alın!
+834	mp_jungle_C2_D1	They have taken the crash site. Get back here and protect the facility!	Enkaz alanını aldılar. Buraya dönün ve tesisi koruyun!
+835	mp_jungle_C3_A1	We have taken the administration facility!	Yönetim tesisini ele geçirdik!
+836	mp_jungle_C3_D1	They've taken the facility!	Tesisi ele geçirdiler!
+837	mangoriver_C1_A1	Defend the bridge!	Köprüyü savun!
+838	mangoriver_C1_D1	Capture the bridge!	Köprüyü ele geçir!
+839	mangoriver_C2_A1	Capture the regulator!	Regülatörü ele geçir!
+840	mangoriver_C2_D1	Defend the regulator!	Regülatörü savun!
+841	mangoriver_C3_A1	Capture the fort!	Kaleyi ele geçir!
+842	mangoriver_C3_D1	Defend the fort!	Kaleyi savun!
+843	mp_mangoriver_S1_A1	It is vital that we take the bridge that the enemy is using to bring in supplies. Move out!	Düşmanın erzak getirmek için kullandığı köprüyü almamız hayati önem taşıyor. Harekete geçin!
+844	mp_mangoriver_S1_D1	Our scouts have reported enemy activity near the bridge. Defend that position!	İzcilerimiz köprü yakınında düşman hareketliliği bildirdi. O mevziyi savunun!
+845	mp_mangoriver_C1_A1	We've taken the bridge! The enemy has a steam generator near their stronghold that must be taken. Secure that generator!	Köprüyü aldık! Düşmanın kalesi yakınında alınması gereken bir buhar jeneratörü var. O jeneratörü güvenceye alın!
+846	mp_mangoriver_C1_D1	We've lost the bridge! They're moving towards the main generator compound. Defend the area!	Köprüyü kaybettik! Ana jeneratör yerleşkesine doğru ilerliyorlar. Bölgeyi savunun!
+847	mp_mangoriver_C2_A1	That did it! We've weakened their position! Take that fort and finish the job!	Oldu! Mevzilerini zayıflattık! O kaleyi alın ve işi bitirin!
+848	mp_mangoriver_C2_D1	We've lost the compound! Defend the fort at all costs! 	Yerleşkeyi kaybettik! Kaleyi ne pahasına olursa olsun savunun!
+849	mp_mangoriver_C3_A1	We've taken the fort!	Kaleyi aldık!
+850	mp_mangoriver_C3_D1	They've taken the fort!	Kaleyi aldılar!
+851	ThereIsNoWaterPr	There is no water pressure	Su basıncı yok
+852	FindThePumpHouse	Find the pump house and turn on the water supply	Pompa dairesini bul ve su kaynağını aç
+853	ExtinguishTheFir	Extinguish the fire in the control room	Kontrol odasındaki yangını söndür
+854	EscapeFromTheMut	Escape from the mutant training area	Mutant eğitim alanından kaç
+855	TheSystemIsNowPu	The system is now pumping water	Sistem şimdi su pompalıyor
+856	WaterPressureSup	Water pressure supplied to the sprinkler system	Yağmurlama sistemine su basıncı verildi
+857	TheElectricFence	The electric fence has been deactivated	Elektrikli çit devre dışı bırakıldı
+858	UnlockTheMainDoo	Unlock the main door	Ana kapının kilidini aç
+859	EnterTheComplex	Enter the complex	Yerleşkeye gir
+860	FindTheOfficerAn	Find the officer and take his key	Subayı bul ve anahtarını al
+861	OpenTheDoor	Open the door	Kapıyı aç
+862	TakeTheKeyToTheB	Take the key to the bridge of the ship and USE it on the infra red transmitter	Gemi köprüsünün anahtarını al ve kızılötesi vericide KULLAN
+863	pressusetoopenva	Press USE to open valve	Vanayı açmak için KULLAN tuşuna bas
+864	PressUsetopull	Press USE to pull switch	Şalteri çekmek için KULLAN tuşuna bas
+865	theresnowat	Theres no water pressure, look for the pumping station	Su basıncı yok, pompa istasyonunu ara
+866	loadingNextLevel	loading next level	sonraki bölüm yükleniyor
+867	GoToTheFortRuinO	Go to the fort ruin on the top of the mountain	Dağın tepesindeki kale harabesine git
+868	FindExplosiveAnd	Find explosive and plant near gas generator in the comm building	Patlayıcı bul ve iletişim binasındaki gaz jeneratörünün yanına yerleştir
+869	GoToTheMercHeadq	Find the Mercenary Camp	Paralı Asker Kampını bul
+870	BlowUpTheArmory	Blow up the armory to create a diversion	Dikkat dağıtmak için cephaneliği havaya uçur
+871	GetAVehicleAndHe	Steal a vehicle and head West to the Pier	Bir araç çal ve batıya, İskeleye git
+872	GetRidOfAllEnemi	Eliminate all enemies in this area	Bu bölgedeki tüm düşmanları etkisiz hale getir
+873	HeadToThePierToT	Head West to the Pier	Batıya, İskeleye git
+874	GoToTheEndOfTheP	Meet Doyle at the end of the Pier	Doyle ile İskelenin sonunda buluş
+875	FollowTheRoadtot	Follow the road to the archives 	Arşivlere giden yolu takip et
+876	flyingfox	Press USE to use flying fox	Teleferiği kullanmak için KULLAN tuşuna bas
+877	open_gate	Press USE to open gate	Kapıyı açmak için KULLAN tuşuna bas
+878	regulator_1st_bomb_placed	Pressure at Maximum	Basınç Maksimumda
+879	regulator_2nd_bomb_placed	Pressure at Maximum, one more to go	Basınç Maksimumda, bir tane kaldı
+880	regulator_3rd_bomb_placed	Pressure exceeding safety levels, get out of the building	Basınç güvenlik seviyelerini aşıyor, binadan çık
+881	regulator_1st_bomb_pickedup	You pickedup the first charge two more to go	İlk yükü aldın iki tane daha kaldı
+882	regulator_2nd_bomb_pickedup	You pickedup the secnd charge, one more to go	İkinci yükü aldın, bir tane daha kaldı
+883	regulator_3rd_bomb_pickedup	You picked up all charges	Tüm yükleri aldın
+884	regulator_alarm_activated	You activated the alarm	Alarmı çalıştırdın
+885	regulator_alarm_deactivated	You deactivated the alarm	Alarmı devre dışı bıraktın
+886	regulator_turn_on_power_first	You need to first turn on the power supply	Önce güç kaynağını açmalısın
+887	regulator_power_on	Press USE key to turn on power supply	Güç kaynağını açmak için KULLAN tuşuna bas
+888	regulator_operate_computer	Press USE key to operate computer	Bilgisayarı çalıştırmak için KULLAN tuşuna bas
+889	FindTheFirstJunc	Find the first junction	İlk bağlantıyı bul
+890	FindTheSecondJun	Find the second junction	İkinci bağlantıyı bul
+891	FindTheThirdJunc	Find the third junction	Üçüncü bağlantıyı bul
+892	ShutOffTheSteam	Shut off the steam	Buharı kapat
+893	FindTheControlCe	Find the control center	Kontrol merkezini bul
+894	HideInTheVentSha	Hide in the vent shafts	Havalandırma bacalarında saklan
+895	MissionComplete	Mission Complete	Görev Tamamlandı
+896	EnterTheResearch	Enter the Research Facility	Araştırma Tesisine gir
+897	EnterTheCave	Enter the cave	Mağaraya gir
+898	FindEmergencyGen	Find emergency generator and switch it on	Acil durum jeneratörünü bul ve çalıştır
+899	TakeTheLift	Take the lift	Asansöre bin
+900	PlaceholderWarni	Get back to your objective!	Hedefine geri dön!
+901	YouNeedAKeycardT	You need a keycard to open this door.	Bu kapıyı açmak için bir anahtar karta ihtiyacın var.
+902	start_generator	Press Use to start the generator.	Jeneratörü çalıştırmak için Kullan'a bas.
+903	ElevatorCannot	The elevator cannot work without power	Asansör güç olmadan çalışamaz
+904	StealABoat	Steal a boat	Bir tekne çal
+905	GetTheBatteryFro	Get the battery from inside the Transport Helicopter	Nakliye Helikopteri'nin içinden bataryayı al
+906	LeaveTheRiverVia	Leave the river via the ruins	Nehirden kalıntılar yoluyla ayrıl
+907	EliminateCroweAn	Eliminate Crowe and upload the PDA data	Crowe'u ortadan kaldır ve PDA verilerini yükle
+908	ThePDAIsUnpowere	The PDA is unpowered - you need the battery from the Transport Helicopter	PDA'nın gücü yok - Nakliye Helikopteri'ndeki bataryaya ihtiyacın var
+909	UseTheBoatToDriv	Use the boat to drive to the end of the river	Nehrin sonuna gitmek için tekneyi kullan
+910	upload_pda	Press USE to upload PDA	PDA'yı yüklemek için KULLAN'a bas
+911	@laptop_placed	Laptop placed	Dizüstü yerleştirildi
+912	@Laptop_collected	Laptop collected	Dizüstü toplandı
+913	FindTheSatellite	Find the satellite uplink truck	Uydu bağlantı kamyonunu bul
+914	FindTheCommandLa	Find the command laptop	Komuta dizüstüsünü bul
+915	BringTheCommandL	Bring the command laptop to the satellite truck	Komuta dizüstüsünü uydu kamyonuna getir
+916	FindTheTruckAndU	Find the truck and upload the PDA	Kamyonu bul ve PDA'yı yükle
+917	ExitTheRuins	Exit the ruins	Kalıntılardan çık
+918	FindTheExplosive	Locate the Goggles in the small camp	Küçük kamptaki Gözlükleri bul
+919	PlantTwoExplosiv	Kill the Foreman to retrieve the blueprints.	Planları geri almak için Ustabaşı'nı öldür.
+920	EnterTheSteamReg	Enter the Steam Regulator	Buhar Regülatörüne gir
+921	FollowTheRoadToT	Follow the road to the Steam Generator	Yolu takip ederek Buhar Jeneratörüne git
+922	Place2ndExplosiv	Place second explosives.	İkinci patlayıcıları yerleştir.
+923	FindTheNightVisi	Find the Night Vision goggles	Gece Görüş gözlüklerini bul
+924	StealThePlansToT	Steal the Plans to the Regulator facility from the worker	İşçiden Regülatör tesisi Planlarını çal
+925	StatFinishTime	Time to finish level	Bölümü bitirme süresi
+926	StatEnemies	$$8Enemies$	$$8Düşmanlar$
+927	StatKilled	Killed	Öldürülen
+928	StatSurvived	Survived	Sağ Kalan
+929	StatKillPct	Kill Percentage 	Öldürme Yüzdesi
+930	StatAvgLifeTime	Average Lifetime 	Ortalama Yaşam Süresi
+931	StatSilentKill	Silent Kills	Sessiz Öldürmeler
+932	StatPlayer	$$8Player$	$$8Oyuncu$
+933	StatShotsFired	Shots Fired	Ateşlenen Atış
+934	StatShotsHit	Shots Successful	İsabetli Atış
+935	StatAccuracy	Accuracy Percentage	İsabet Yüzdesi
+936	StatDeadliness	Deadliness	Ölümcüllük
+937	StatDeaths	Deaths	Ölümler
+938	StatDeathsChkpt	Average deaths per checkpoint	Kontrol noktası başına ortalama ölüm
+939	StatAvgChkptTime	Average time between deaths	Ölümler arası ortalama süre
+940	StatVehicles	Vehicles destroyed	Yok edilen araçlar
+941	StatStats	Statistics	İstatistikler
+942	StatSeconds	Seconds	Saniye
+943	StatStatsMode	StatisticsMode	İstatistik Modu
+944	StealACarOutOfTh	Steal a car out of the camp	Kamptan bir araba çal
+945	GetToTheMercenar	Get to the mercenary base	Paralı asker üssüne git
+946	ValerieIsGoingTo	Valerie is going to drive	Valerie sürecek
+947	PleaseWaitUntilS	Please wait until she gets in the car	Lütfen arabaya binene kadar bekle
+948	CompletedGetToTh	Completed: Get to the mercenary base	Tamamlandı: Paralı asker üssüne git
+949	GetIntoTheBaseAn	Get into the base and find a computer terminal	Üsse gir ve bir bilgisayar terminali bul
+950	FollowValDoNotLo	Follow Val! Do not lose her	Val'i takip et! Onu kaybetme
+951	FindAWayInsideTh	Find a way inside the base	Üssün içine girecek bir yol bul
+952	GetTheBombAcessC	Get the bomb access codes from the headquarters	Karargahtan bomba erişim kodlarını al
+953	GoBackToTheContr	Go back to the control center	Kontrol merkezine geri dön
+954	EscortVal	Escort Val	Val'e eskortluk et
+955	EnterArmoury	Enter armoury	Cephaneliğe gir
+956	OpenTheArmouryGa	Open the armoury gate	Cephanelik kapısını aç
+957	GetTheBomb	Get the bomb	Bombayı al
+958	GetInTheCar	Get in the car	Arabaya bin
+959	disable_alarm	Press USE to disable the alarm	Alarmı devre dışı bırakmak için KULLAN'a bas
+960	val_can	Val can open these doors from the control center	Val bu kapıları kontrol merkezinden açabilir
+961	SearchTheHutsFor	Search the huts for ammo	Cephane için kulübeleri ara
+962	YouNeedAKey	You need a key	Bir anahtara ihtiyacın var
+963	MaybeTheGuardHas	Maybe the guard has one	Belki gardiyanda vardır
+964	HintToDisplayYou	To display your current objectives press Objective key (Default TAB)	Güncel görevlerini görmek için Görev tuşuna bas (Varsayılan TAB)
+965	GoToTheHutOnTheH	Go to the hut on the hill and find binoculars	Tepedeki kulübeye git ve dürbünü bul
+966	GoToTheCamp	Go to the camp	Kampa git
+967	StealAVehicle	Steal a vehicle	Bir araç çal
+968	GoToTheCarrier	Go to the carrier	Uçak gemisine git
+969	FindAWayInsideTh	Find a way inside the wreck	Enkazın içine girecek bir yol bul
+970	PressGToThrowGre	Press THROW to throw grenades (Default G)	El bombası atmak için FIRLAT'a bas (Varsayılan G)
+971	PressHToToggleGr	Press TOGGLE GRENADES to toggle grenades (Default H)	El bombası değiştirmek için EL BOMBASI DEĞİŞTİR'e bas (Varsayılan H)
+972	HoldDownZAndAnyM	Hold down SPRINT and any movement key to sprint (Default LShift)	Koşmak için KOŞMA tuşunu ve herhangi bir hareket tuşunu basılı tut (Varsayılan LShift)
+973	PressHKeyToChang	Press Grenade to cycle Grenades (Default H)	El bombaları arasında geçiş için El Bombası'na bas (Varsayılan H)
+974	NoticeYourStamin	Notice your stamina bar changes as you sprint	Koşarken dayanıklılık çubuğunun değiştiğine dikkat et
+975	PressFKeyToEnter	Press USE key to enter vehicles (Default F)	Araçlara binmek için KULLAN tuşuna bas (Varsayılan F)
+976	dontStandToClose	Get out of there before the countdown reaches 0!	Geri sayım 0'a ulaşmadan oradan çık!
+977	GetTheKeycardAnd	Get the keycard and to open the door	Anahtar kartı al ve kapıyı aç
+978	HintDestroyTheFi	Destroy the fieldradio so that enemies can not call reinforcements	Düşmanlar takviye çağıramasın diye sahra telsizini yok et
+979	TheBreathOMeterS	The breath-o-meter shows you how long you can hold your breath	Nefes ölçer nefesini ne kadar tutabileceğini gösterir
+980	underwaterWithou	underwater without taking damage	hasar almadan su altında
+981	HoldDownCTRLKeyA	Hold down FORWARD key and move forward (Default W)	İLERİ tuşunu basılı tut ve ilerle (Varsayılan W)
+982	PressSPACEKeyToJ	Press JUMP key to jump up (Default SPACE)	Zıplamak için ZIPLA tuşuna bas (Varsayılan SPACE)
+983	PressVKeyToProne	Press PRONE key to lie down (Default V)	Yatmak için YAT tuşuna bas (Varsayılan V)
+984	PressVKeyAgainTo	Press PRONE key again to stand up	Ayağa kalkmak için YAT tuşuna tekrar bas
+985	LookUpAndPressFo	Look up and press FORWARD key to climb ladders	Yukarı bak ve merdivenleri tırmanmak için İLERİ tuşuna bas
+986	YouPickedUpTheBi	You picked up the binoculars	Dürbünü aldın
+987	PressBToUseThem	Press BINOCULARS key to use them (Default B)	Onu kullanmak için DÜRBÜN tuşuna bas (Varsayılan B)
+988	ZoomInOutWithThe	Use the ZOOM keys to zoom in and out (Default Mousewheel)	Yakınlaştırıp uzaklaşmak için YAKINLAŞTIRMA tuşlarını kullan (Varsayılan Fare tekerleği)
+989	PressRightMouseB	Press AIM button use aim your weapon (Default right mouse button)	Silahını nişan almak için NİŞAN AL düğmesine bas (Varsayılan farenin sağ tuşu)
+990	andPressRightMou	and press right mouse button again to switch to heat vision	ve ısı görüşüne geçmek için farenin sağ tuşuna tekrar bas
+991	PressLeftMouseBu	Press FIRE button to shoot (Default LEFT MOUSE BUTTON)	Ateş etmek için ATEŞ düğmesine bas (Varsayılan SOL FARE TUŞU)
+992	PressRToReload	Press RELOAD to reload you current weapon (Default R)	Mevcut silahını doldurmak için DOLDUR'a bas (Varsayılan R)
+993	GoToTheMountedMa	Go to the mounted machine gun and press USE key to use it	Sabit makineli tüfeğe git ve kullanmak için KULLAN tuşuna bas
+994	HoldDownTheRight	Hold down the right mouse button to enable the aiming mode	Nişan modunu açmak için farenin sağ tuşunu basılı tut
+995	thisWillAllowYou	this will allow you much more precise aiming	bu çok daha hassas nişan almanı sağlar
+996	PressXToSwitchTo	Press TOGGLE FIRE Mode to select firing rates (Default X)	Atış hızını seçmek için ATEŞ MODU DEĞİŞTİR'e bas (Varsayılan X)
+997	PressRToReloadYo	Press R to reload your weapon, if you run out of 	Silahını doldurmak için R'ye bas, eğer biterse
+998	bulletsGoToTheAm	bullets go to the ammo box to pick up an ammo pickup	mermilerin biterse cephane kutusuna gidip cephane al
+999	UseYourMouseToLo	Use your mouse to look around	Etrafına bakmak için fareni kullan
+1000	PressWToMoveForw	Press FORWARD to move forward (Default W)	İleri hareket etmek için İLERİ'ye bas (Varsayılan W)
+1001	PressSToMoveBack	Press BACKWARD to move backward (Default S)	Geri hareket etmek için GERİ'ye bas (Varsayılan S)
+1002	PressAAndDToStra	Press STRAFE to sidestep (Default A and D)	Yana kaymak için YAN ADIM'a bas (Varsayılan A ve D)
+1003	UseQAndEKeysToLe	Press LEAN LEFT KEY (Default Q) and LEAN RIGHT KEY (Default E) to lean around corners 	Köşelerden eğilmek için SOLA YAT TUŞU (Varsayılan Q) ve SAĞA YAT TUŞU'na (Varsayılan E) bas
+1004	HoldDownCTRLAndW	Hold down CROUCH and FORWARD to sneak forward (Default CTRL)	Sessizce ilerlemek için EĞİL ve İLERİ'yi basılı tut (Varsayılan CTRL)
+1005	YouMustSearchFor	You must search for weapons in this room before you can go outside	Dışarı çıkmadan önce bu odada silah aramalısın
+1006	ThrowTheRockToDi	Press THROW to throw a rock and distract your enemies (Default G)	Düşmanlarını oyalamak için taş atmak üzere FIRLAT'a bas (Varsayılan G)
+1007	Press2ToSwitchYo	Press 2 to switch your current weapon to the machete	Mevcut silahını palaya değiştirmek için 2'ye bas
+1008	TipPressRIGHTMOU	Tip: Press RIGHT MOUSE BUTTON to switch to third person view	İpucu: Üçüncü şahıs görüşüne geçmek için FARENİN SAĞ TUŞU'na bas
+1009	PressFKeyToOpenD	Press USE key to open doors (Default F)	Kapıları açmak için KULLAN tuşuna bas (Varsayılan F)
+1010	YouAreImprisoned	You are imprisoned, try to go out of the wreck alive	Esir alındın, enkazdan sağ çıkmaya çalış
+1011	GetOutItsGonnaBl	Get out its gonna blow	Çık dışarı patlayacak
+1012	TheGameSavesChec	The game saves checkpoints. When you die you will	Oyun kontrol noktalarını kaydeder. Öldüğünde
+1013	respawnAtTheseCh	respawn at these checkpoints	bu kontrol noktalarında yeniden doğacaksın
+1014	NoticeTheStealth	Notice the Stealth-O-Meter rises when enemies detects you.	Düşmanlar seni fark ettiğinde Gizlilik Ölçerin yükseldiğine dikkat et.
+1015	HolddowntheSPRIN	Hold down the SPRINT key (Default LShift) and any movement key to sprint	Koşmak için KOŞMA tuşunu (Varsayılan LShift) ve herhangi bir hareket tuşunu basılı tut
+1016	TheOrangeArmorBa	The orange armor bar shows you how much armor you have	Turuncu zırh çubuğu ne kadar zırhın olduğunu gösterir
+1017	PressFORWARDKeyD	Press FORWARD key (Default W) to drive forward	İleri sürmek için İLERİ tuşuna bas (Varsayılan W)
+1018	PressF1KeyToChan	Press F1 key to change perspective	Bakış açısını değiştirmek için F1 tuşuna bas
+1019	PressLEFTMOUSEBU	Press LEFT MOUSE BUTTON to shoot	Ateş etmek için SOL FARE TUŞU'na bas
+1020	PressLEFTMOUSEBX	Press TOGGLE FIRE Mode to change firing mode (Default X)	Atış modunu değiştirmek için ATEŞ MODU DEĞİŞTİR'e bas (Varsayılan X)
+1021	PressRIGHTMOUSEB	Toggle between Machine Gun and Rocket Launcher	Makineli Tüfek ve Roketatar arasında geçiş yap
+1022	Treehouse.KeycardScientistDoor.	You need the keycard from the scientist to open this door.	Bu kapıyı açmak için bilim insanından alınan anahtar karta ihtiyacın var.
+1023	Treehouse.KeycardScientistGate.	You need the keycard from the scientist to open this gate.	Bu geçidi açmak için bilim insanından alınan anahtar karta ihtiyacın var.
+1024	MissionFinished	Mission finished	Görev tamamlandı
+1025	GoToTheScientist	Get to the Scientist to help find Val.	Val'i bulmaya yardım etmek için Bilim İnsanına git.
+1026	EnterTheBunker	Enter the Bunker	Sığınağa gir
+1027	HintThisGateIsCl	This gate is closed.	Bu geçit kapalı.
+1028	HintTheGateToThe	The gate to the helipad is open now.	Helipad'e giden geçit artık açık.
+1029	ClosedYouCanNotO	Closed. You can not open it from this side.	Kapalı. Bunu bu taraftan açamazsın.
+1030	GetExplosivesFro	Get explosives from the tower.	Kuledeki patlayıcıları al.
+1031	PlantExplosivesA	Plant explosives at the back of the compound wall!	Yerleşke duvarının arkasına patlayıcıları yerleştir!
+1032	PlantTheExplosiv	Plant the explosives here.	Patlayıcıları buraya yerleştir.
+1033	EnterTheBunker_2	Enter the Bunker.	Sığınağa gir.
+1034	GetTheSerumFromD	Kill Doyle and get the Serum	Doyle'u öldür ve Serumu al
+1035	vulcano_activate_elevator	Press USE to activate elevator	Asansörü çalıştırmak için KULLAN'a bas
+1036	vulcano_use_elevator	Press USE to use elevator	Asansörü kullanmak için KULLAN'a bas
+1037	vulcano_open_door	Press Use to open door	Kapıyı açmak için Kullan'a bas
